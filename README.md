@@ -1,23 +1,22 @@
 <div align="center">
 
-# 🎨 Design Agent 精选集
+# 🎨 Design Agent — 精选与分类
 
 <p align="center">
-  <strong>精心整理的 AI 设计代理与工具开源项目合集</strong>
+  <strong>聚合与整理 AI 驱动的设计代理、自动化设计工具与优秀开源项目</strong>
 </p>
 
 <p align="center">
-  <a href="#-特色项目">特色项目</a> •
-  <a href="#-项目分类">项目分类</a> •
-  <a href="#-贡献指南">贡献指南</a> •
-  <a href="#-许可证">许可证</a>
+  <a href="#简介">简介</a> •
+  <a href="#特色项目">特色项目</a> •
+  <a href="#项目分类">项目分类</a> •
+  <a href="#贡献指南">贡献指南</a> •
+  <a href="#许可证">许可证</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-50+-blue?style=flat-square" alt="Projects">
+  <img src="https://img.shields.io/badge/Projects-精选-blue?style=flat-square" alt="Projects">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/stars/yourusername/design-agent?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/last-commit/yourusername/design-agent?style=flat-square" alt="Last Commit">
 </p>
 
 </div>
