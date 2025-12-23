@@ -51,15 +51,25 @@ Design Agent（设计代理）是指能够理解设计需求、自动生成设�
 
 ## 📂 项目分类
 
-### 🎯 1. 端到端设计代理
+### 🎯 1. 画布类型的AI设计产品
 
 <details>
 <summary>点击展开查看项目列表</summary>
 
-#### 项目名称
-- **简介**：项目简要描述
-- **特点**：主要功能特性
-- **链接**：[GitHub](https://github.com) / [Demo](https://demo.com)
+#### jaaz
+- **简介**：
+世界上首个开源多模态创意代理，这是一款注重隐私、本地使用和易用性的创意工具， Lovart、Manus 和 Figma 的结合产品。
+- **特点**：
+智能提示词代理 由大语言模型（LLM）驱动，Jaaz 能理解你的想法并生成优化的提示词，用于创作高质量的图像或故事板。
+
+混合模型部署 支持通过 Ollama、ComfyUI 运行本地模型，也支持 Replicate、OpenAI 或 Claude 等远程 API。可实现 100% 本地运行或连接到云端。
+
+轻松接入所有最强 API 登录后，你可以使用所有最新的模型（gpt-image-1, flux kntext, google……）。
+
+交互式图像编辑 支持对象插入、风格迁移和通过 Flux Kontext 实现多角色一致性等高级操作——所有这些都可以通过聊天来控制。
+
+无限画布 & 故事板 通过简单的拖放操作即可设计布局、规划场景和创建视觉叙事流程。
+- **链接**：[GitHub]https://github.com/11cafe/jaaz / [Demo](https://jaaz.app/home)
 - **技术栈**：Python, React, etc.
 
 ---
